@@ -1,5 +1,3 @@
-Resource for the simulation game:  1 copy per group per game
-
 Roles and Prompt 
 
 Hand
