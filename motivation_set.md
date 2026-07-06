@@ -1,5 +1,3 @@
-Resource for the Simulation Game: 2 copy per game
-
 Motivation Set A: Concentrated Order
 
 Group 1 - Graphic Designer AI
