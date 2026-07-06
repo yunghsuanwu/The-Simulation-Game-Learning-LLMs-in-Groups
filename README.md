@@ -1,4 +1,4 @@
-# The Simulation Game: learning about LLMs in groups through communication
+# The Simulation Game: learning LLMs in groups
 
 The Simulation Game puts humans, LLMs and a healthy dose of friendly competition into one physical room and lets them collide. Teams (each equipped with an LLM of their choice) assign themselves roles: a HAND who can physically touch the room, a VOICE who talks to the LLM and orchestrates the HANDs, and an OBSERVER who watches everything and strategises. Every team feeds their LLM the same opening prompt describing the room, then a second, secret prompt containing their own design goal (clear the walkways for safety, say, or give every object its fair share of daylight). What follows is alternating rounds of enactment and reflection: furniture trundled at pace across the floor, plants carted out of rooms entirely, players perched on key chairs to hold territory, and LLMs suggesting reconnaissance missions or shouting 'DO NOT USE YOUR INSIDE VOICE!' at their indifferent humans. To win is to have your goal reflected in the room's final layout...
 
