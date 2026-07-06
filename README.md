@@ -3,13 +3,10 @@
 The Simulation Game puts humans, LLMs and a healthy dose of friendly competition into one physical room and lets them collide. Teams (each equipped with an LLM of their choice) assign themselves roles: a HAND who can physically touch the room, a VOICE who talks to the LLM and orchestrates the HANDs, and an OBSERVER who watches everything and strategises. Every team feeds their LLM the same opening prompt describing the room, then a second, secret prompt containing their own design goal (clear the walkways for safety, say, or give every object its fair share of daylight). What follows is alternating rounds of enactment and reflection: furniture trundled at pace across the floor, plants carted out of rooms entirely, players perched on key chairs to hold territory, and LLMs suggesting reconnaissance missions or shouting 'DO NOT USE YOUR INSIDE VOICE!' at their indifferent humans. To win is to have your goal reflected in the room's final layout...
 
 ## Materials Included
-- Chatbot prompts
-- Facilitator guide
-- Reflection questions
 - Setup instructions
-
-## How to Use
-[Brief instructions]
+- Facilitator guide
+- Resources for participant during the game
+- Reflection questions
 
 ## About
 This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication.
