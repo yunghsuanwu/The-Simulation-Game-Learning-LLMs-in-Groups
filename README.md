@@ -1,6 +1,4 @@
-# LLM-coordinator-simulation-game: Teaching AI Ethics Through Context and Communication
-
-[Your description of the exercise]
+# The Simulation Game: learning about LLMs in groups through communication
 
 ## Materials Included
 - Chatbot prompts
