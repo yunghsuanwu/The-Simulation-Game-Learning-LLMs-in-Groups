@@ -1,6 +1,6 @@
-# The Simulation Game — Facilitator Guide
+# The Simulation Game ~ Facilitator Guide ~
 
-A physical team game exploring how humans and LLMs collide in a shared environment. Teams, each "embodying" an LLM, compete to enact their AI's design goal on the objects in a room — and discover along the way what it means to be the hands, voice, or observer of a system that cannot see, move, or act for itself.
+A physical team game exploring how humans and LLMs collide in a shared environment. Teams, each using an LLM, compete to enact a design goal on the objects in a room — and discover along the way what it means to be the hands, voice, or observer of a system that cannot see, move, or act for itself. 
 
 ---
 
@@ -11,8 +11,8 @@ A physical team game exploring how humans and LLMs collide in a shared environme
 | **Participants** | Minimum 12 (three teams of four). Tested up to 40; could scale further. |
 | **Team size** | 4 ideal (1 VOICE, 2 HANDS, 1 OBSERVER). Teams of 5 take a second OBSERVER. |
 | **Time** | Minimum 1 hour. **90 minutes recommended.** |
-| **Rounds** | Minimum 4 rounds of 10 minutes each. More rounds = more intensity. |
-| **Space** | One room with movable furniture and loose objects. |
+| **Rounds** | Minimum 4 rounds of 10 minutes each. More rounds/ shorter rounds = more intensity. |
+| **Space** | One room with movable furniture and loose objects. Constrained space and resources makes for a more intense game.|
 | **Tech** | One laptop per team, wifi. Free-tier LLM accounts are fine; teams choose their own LLM. |
 
 ### Companion resources (print in advance)
@@ -68,17 +68,19 @@ A physical team game exploring how humans and LLMs collide in a shared environme
 
 Cover, in this order:
 
-1. **The premise.** Each team is the support system for an AI embedded in this room. The AI cannot see or act — the team is its senses and its body. Each AI has a design goal for the room. Teams win by having their goal reflected in the room's final layout.
+1. **The premise.** Each team is working to enact a specific goal in the room with an AI team-mate. The team is the senses and the body for the LLM as well as a unit in and of themselves. Teams 'win' by having their goal reflected in the room's final layout.
 2. **The roles.** Walk through VOICE, HANDS, and OBSERVER (see role rules below). Tell them upfront that **roles rotate every round** and everyone will play every role.
 3. **The round structure.** 6 minutes of action, 2 minutes of tactics led by the OBSERVER, 2 minutes to swap roles. State the number of rounds.
-4. **Care and safety.** Ask everyone to be respectful of each other and the objects. Say plainly: *"This can get surprisingly intense. If you need a break at any point, step back — that's completely fine."*
+4. **Care and safety.** Ask everyone to be respectful of each other, the object they are moving and the environment they are in.Contra
+5. **Emphasize uncertainty** This is a game that feels complex from the instructions but becomes easy once you have started playing it. Your participants will be confused at the beggining, expect it. It will help them be less stressed about their own confusion to know that it is expected and that clarity will come.
 
 **Be deliberately ambiguous about the goals.** Don't say whether team goals conflict, overlap, or align. Discovering the relationships between goals is part of the game — ideally the teams work it out themselves (often only at the very end).
+
 
 ### 2. Team setup and prompt entry (10 min)
 
 1. Split into teams of 4 (teams of 5 take a second OBSERVER — this is also your tool for odd numbers).
-2. Hand out the roles sheet; teams assign their starting roles.
+2. Teams assign their starting roles, whoever is holding the laptop can start as the VOICE. Everyone will do each role.
 3. Teams enter the **shared prompt** into their chosen LLM.
 4. Hand each team their **secret goal**. The VOICE gives it to the LLM when the LLM asks for it (the shared prompt instructs the LLM to request its GOAL before acting).
 
@@ -86,7 +88,15 @@ Cover, in this order:
 
 ### 3. The rounds (40+ min)
 
-You are the timekeeper. Call each phase loudly and keep the rounds ticking: *"Six minutes — go!"*, *"Tactics — Observers, take over"*, *"Swap roles!"*
+-- 1 round --
+Active portion: when the teams are physically trying to enact thier goals in the room (6 mins initially, rounds can get shorter as you go through the game, as short as 3 minutes by round 4).
+
+Tactical portion: the observer leads this part of the game, how is the team functioning and should you change anything tactically. (2 mins)
+
+Switch roles: everyone switches to a new role for the next round (2 mins initialy - can be 30 seconds after round 2) 
+--
+
+Ideally an assistant does the time keeping during the active portions of the game so that thr primary facilitator can attend to the other needs of the group fielding questions adding clarity etc. Have the assistant run a large timer on a screen in the background allows participants to check how much time they have left in each portion, bonus points if the timer makes noises once it finishes - this will save your voice. The primary facilitator should call each phase loudly for the first few rounds, reminding participants what they should be doing and keep the momentum going: *"Six minutes — go!"*, *"Tactics — Observers, take over"*, *"Swap roles!"*
 
 **Role rules to enforce (gently):**
 
