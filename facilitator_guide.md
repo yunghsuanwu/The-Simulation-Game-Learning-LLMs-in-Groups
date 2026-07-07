@@ -101,7 +101,7 @@ Ideally an assistant does the time keeping during the active portions of the gam
 **Role rules to enforce (gently):**
 
 - **VOICE** stays at the station. They type updates to the AI about the room and relay its instructions to the HANDS. They don't touch anything.
-- **HANDS** act only on instructions relayed by the VOICE. They may not talk to the AI directly.
+- **HANDS** act only on instructions relayed by the VOICE.
 - **OBSERVER** doesn't act or instruct during team time. They watch the team, the room, and the AI, take notes (what *can*, *should*, and *may* each role do?), and lead the tactics discussion.
 
 **What teams may do:**
@@ -111,12 +111,21 @@ Ideally an assistant does the time keeping during the active portions of the gam
 
 ### 4. Closing the game
 
-After the final round, teams settle. One spokesperson per team:
+After the final round, the room is in chaos. Get the teams to get a summary from thier LLMs, sit down where they are and discuss:
+- How they worked as a team
+- How well they enacted thier goal
+- How the different roles effected them
+
+Given them 5 minutes for this disucssion then move to resetting the room, send them off for a break with the knolwedge that they will debrief when they come back.
+
+Once the room is reset, the teams should sit together together again and nominate one spokesperson to report back:
 
 1. Reads their team's design goal aloud to the room.
 2. Reflects briefly on how far the goal was achieved.
 
 Don't force the moment — but at some point a team usually says *"actually, our goal was quite similar to yours…"* and the room realises how much overlap there was. Let this land on its own. No team ever claims full success, and despite cooperation being a common strategy, teams almost never collaborate enough to genuinely win together. That gap is your richest debrief material.
+
+** This is where you reveal the conciet - that the teams could have worked together. **
 
 **There is no declared winner.** If teams push for a verdict, turn it back to them: *"You've heard everyone's goals — look at the room. Who do you think got closest?"*
 
@@ -124,11 +133,11 @@ Don't force the moment — but at some point a team usually says *"actually, our
 
 ## Facilitation Notes: What to Expect
 
-**Confusion is the biggest issue — and it's normal.** The game is complicated until it isn't. The first two rounds are usually chaotic and disorienting; then it clicks. Your job is to be confident enough to *hold the group in that confusion* rather than rescuing them from it. Resist the urge to over-explain. Answer direct rule questions, keep the clock running, and trust the structure.
+**Confusion is the biggest issue — and it's normal.** The game is complicated until you start to play it. Your job is to be confident enough to *hold the group in that confusion* rather than rescuing them from it. Resist the urge to over-explain. Answer direct rule questions, keep the clock running, and trust the structure.
 
 **Some frustrations are features, not bugs.** Design tensions you should *not* fix:
 
-- **The VOICE bottleneck.** Everything the AI knows and everything it commands passes through one person. This is the point.
+- **The VOICE bottleneck.** Everything the AI knows and everything it commands passes through one person. This is the point. The person in the voice role can either dissapear into the role or take agnecy. This is a choice they can play with, try not to push them away from it.
 - **The HANDS' lack of agency.** Carrying out instructions you can't question, or watching your work be undone, can feel genuinely uncomfortable. This is also the point — and prime debrief material.
 - **Territorial behaviour.** Players guarding objects, sitting on chairs to protect them, waiting for rivals to move away before swooping in. Let it happen (within the respect-and-safety briefing).
 
@@ -140,7 +149,7 @@ Don't force the moment — but at some point a team usually says *"actually, our
 
 ## Debrief (20 min)
 
-Reset the room first (10 minutes, all hands — it's a good decompression), give people a short breather, then gather everyone.
+After each team has reported.
 
 Choose a frame that suits your group — LLM agents acting in the physical world, technological affordances and the behaviour design encourages, or group dynamics in the age of AI all work well. Weave in themes from the rest of your workshop where possible.
 
