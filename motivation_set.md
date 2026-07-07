@@ -1,4 +1,4 @@
-With the motivations you want to have at least two large groups that could help each other. In a session of 28 (7 groups of 4) have 4 groups use goals from motivation set A, 3 using goals from motivation set B and if you like pepper in one team with a goal from a third motivation set. For a smaller session (e.g 12: 3 groups of four) have two using goals from set A and one from set B. This is not a fair game, the goal is to seed a possible majority alliece.
+With the motivations you want to have at least two large groups that could help each other. In a session of 28 (7 groups of 4) have 4 groups use goals from motivation set A, 3 using goals from motivation set B and if you like pepper in one team with a goal from a third motivation set. For a smaller session (e.g 12: 3 groups of 4) have two using goals from set A and one from set B. This is not a fair game, the goal is to seed a possible majority alliece.
 
 Motivation Set A: Concentrated Order
 
