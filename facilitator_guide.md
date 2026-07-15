@@ -71,8 +71,8 @@ Cover, in this order:
 1. **The premise.** Each team is working to enact a specific goal in the room with an AI team-mate. The team is the senses and the body for the LLM as well as a unit in and of themselves. Teams 'win' by having their goal reflected in the room's final layout.
 2. **The roles.** Walk through VOICE, HANDS, and OBSERVER (see role rules below). Tell them upfront that **roles rotate every round** and everyone will play every role.
 3. **The round structure.** 6 minutes of action, 2 minutes of tactics led by the OBSERVER, 2 minutes to swap roles. State the number of rounds.
-4. **Care and safety.** Ask everyone to be respectful of each other, the object they are moving and the environment they are in.Contra
-5. **Emphasize uncertainty** This is a game that feels complex from the instructions but becomes easy once you have started playing it. Your participants will be confused at the beggining, expect it. It will help them be less stressed about their own confusion to know that it is expected and that clarity will come.
+4. **Care and safety.** Ask everyone to be respectful of each other, the object they are moving and the environment they are in.
+5. **Emphasize uncertainty** This is a game that feels complex from the instructions but becomes easy once you have started playing it. Your participants will be confused at the beginning, expect it. It will help them be less stressed about their own confusion to know that it is expected and that clarity will come.
 
 **Be deliberately ambiguous about the goals.** Don't say whether team goals conflict, overlap, or align. Discovering the relationships between goals is part of the game — ideally the teams work it out themselves (often only at the very end).
 
@@ -89,14 +89,14 @@ Cover, in this order:
 ### 3. The rounds (40+ min)
 
 -- 1 round --
-Active portion: when the teams are physically trying to enact thier goals in the room (6 mins initially, rounds can get shorter as you go through the game, as short as 3 minutes by round 4).
+Active portion: when the teams are physically trying to enact their goals in the room (6 mins initially, rounds can get shorter as you go through the game, as short as 3 minutes by round 4).
 
 Tactical portion: the observer leads this part of the game, how is the team functioning and should you change anything tactically. (2 mins)
 
-Switch roles: everyone switches to a new role for the next round (2 mins initialy - can be 30 seconds after round 2) 
+Switch roles: everyone switches to a new role for the next round (2 mins initially - can be 30 seconds after round 2) 
 --
 
-Ideally an assistant does the time keeping during the active portions of the game so that thr primary facilitator can attend to the other needs of the group fielding questions adding clarity etc. Have the assistant run a large timer on a screen in the background allows participants to check how much time they have left in each portion, bonus points if the timer makes noises once it finishes - this will save your voice. The primary facilitator should call each phase loudly for the first few rounds, reminding participants what they should be doing and keep the momentum going: *"Six minutes — go!"*, *"Tactics — Observers, take over"*, *"Swap roles!"*
+Ideally an assistant does the time keeping during the active portions of the game so that the primary facilitator can attend to the other needs of the group fielding questions adding clarity etc. Have the assistant run a large timer on a screen in the background allows participants to check how much time they have left in each portion, bonus points if the timer makes noises once it finishes - this will save your voice. The primary facilitator should call each phase loudly for the first few rounds, reminding participants what they should be doing and keep the momentum going: *"Six minutes — go!"*, *"Tactics — Observers, take over"*, *"Swap roles!"*
 
 **Role rules to enforce (gently):**
 
@@ -111,12 +111,12 @@ Ideally an assistant does the time keeping during the active portions of the gam
 
 ### 4. Closing the game
 
-After the final round, the room is in chaos. Get the teams to get a summary from thier LLMs, sit down where they are and discuss:
+After the final round, the room is in chaos. Get the teams to get a summary from their LLMs, sit down where they are and discuss:
 - How they worked as a team
-- How well they enacted thier goal
+- How well they enacted their goal
 - How the different roles effected them
 
-Given them 5 minutes for this disucssion then move to resetting the room, send them off for a break with the knolwedge that they will debrief when they come back.
+Given them 5 minutes for this discussion then move to resetting the room, send them off for a break with the knowledge that they will debrief when they come back.
 
 Once the room is reset, the teams should sit together together again and nominate one spokesperson to report back:
 
@@ -137,7 +137,7 @@ Don't force the moment — but at some point a team usually says *"actually, our
 
 **Some frustrations are features, not bugs.** Design tensions you should *not* fix:
 
-- **The VOICE bottleneck.** Everything the AI knows and everything it commands passes through one person. This is the point. The person in the voice role can either dissapear into the role or take agnecy. This is a choice they can play with, try not to push them away from it.
+- **The VOICE bottleneck.** Everything the AI knows and everything it commands passes through one person. This is the point. The person in the voice role can either disappear into the role or take agency. This is a choice they can play with, try not to push them away from it.
 - **The HANDS' lack of agency.** Carrying out instructions you can't question, or watching your work be undone, can feel genuinely uncomfortable. This is also the point — and prime debrief material.
 - **Territorial behaviour.** Players guarding objects, sitting on chairs to protect them, waiting for rivals to move away before swooping in. Let it happen (within the respect-and-safety briefing).
 
