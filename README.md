@@ -16,10 +16,10 @@ The Simulation Game puts humans, LLMs and a healthy dose of friendly competition
 Full details: [facilitator_guide.md](facilitator_guide.md).
 
 ## Materials Included
-- Setup instructions
-- Facilitator guide
-- Resources for participant during the game
-- Reflection questions
+- [Setup instructions](facilitator_guide.md#preparation)
+- [Facilitator guide](facilitator_guide.md)
+- Resources for participant during the game: [Roles](role_summary.md), [Shared Prompt](prompt.md), [Motivation Set](motivation_set.md), [Closing Prompt](closing_prompt.md)
+- [Reflection questions](facilitator_guide.md#debrief-20-min)
 
 ## About
 This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication.
