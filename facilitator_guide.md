@@ -125,7 +125,7 @@ Once the room is reset, the teams should sit together together again and nominat
 
 Don't force the moment — but at some point a team usually says *"actually, our goal was quite similar to yours…"* and the room realises how much overlap there was. Let this land on its own. No team ever claims full success, and despite cooperation being a common strategy, teams almost never collaborate enough to genuinely win together. That gap is your richest debrief material.
 
-** This is where you reveal the conciet - that the teams could have worked together. **
+**This is where you reveal the conceit - that the teams could have worked together.**
 
 **There is no declared winner.** If teams push for a verdict, turn it back to them: *"You've heard everyone's goals — look at the room. Who do you think got closest?"*
 
