@@ -1,4 +1,4 @@
-*Print: TODO(Hannah: confirm print quantities)*
+*Print: 1 per group*
 
 Roles
 

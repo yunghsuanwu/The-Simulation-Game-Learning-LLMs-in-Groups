@@ -1,4 +1,4 @@
-*Print: TODO(Hannah: confirm print quantities)*
+*Print: 1 per group if emailing is not possible*
 
 # The Simulation Game — Shared Prompt
 
