@@ -112,7 +112,7 @@ Ideally an assistant does the time keeping during the active portions of the gam
 
 ### 4. Closing the game
 
-After the final round, the room is in chaos. Get the teams to get a summary from their LLMs, sit down where they are and discuss:
+After the final round, the room is in chaos. Get the teams to get a summary from their LLMs (the [closing prompt](closing_prompt.md)), sit down where they are and discuss:
 - How they worked as a team
 - How well they enacted their goal
 - How the different roles effected them
