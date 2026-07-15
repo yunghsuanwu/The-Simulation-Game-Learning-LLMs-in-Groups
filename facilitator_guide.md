@@ -17,8 +17,9 @@ A physical team game exploring how humans and LLMs collide in a shared environme
 
 ### Companion resources (print in advance)
 
-1. **Roles & Shared Prompt sheet** — one per team. Contains the role descriptions and the shared LLM prompt.
-2. **Motivation Set sheet(s)** — the team-specific goals, cut so each team receives *only their own goal*. Goals are grouped into themed sets (Concentrated Order; Spatial Balance & Flow; Light & Visibility; Cognitive/Behavioural Environment).
+1. **Roles sheet** (`role_summary.md`) — TODO(Hannah: confirm print quantities). Contains the role descriptions.
+2. **Shared Prompt sheet** (`prompt.md`) — TODO(Hannah: confirm print quantities). Contains the shared LLM prompt.
+3. **Motivation Set sheet(s)** (`motivation_set.md`) — the team-specific goals, cut so each team receives *only their own goal*. Goals are grouped into themed sets (Concentrated Order; Spatial Balance & Flow; Light & Visibility; Cognitive/Behavioural Environment).
 
 > **Tip:** Emailing the shared prompt to each team is much faster than having them type it in manually — it can save most of the 10-minute prompt-entry step.
 
@@ -56,7 +57,7 @@ A physical team game exploring how humans and LLMs collide in a shared environme
 ### Materials checklist
 
 - [ ] One laptop per team, charged, on wifi, logged into an LLM
-- [ ] Printed Roles & Shared Prompt sheet per team (or shared prompt emailed)
+- [ ] Printed Roles sheet (`role_summary.md`) and Shared Prompt sheet (`prompt.md`) — see quantities above (or shared prompt emailed)
 - [ ] Team goals printed and separated — teams must not see each other's goals
 - [ ] A visible timer (or a facilitator with a loud voice and a phone)
 

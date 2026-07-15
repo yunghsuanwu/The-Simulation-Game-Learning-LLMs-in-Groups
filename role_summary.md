@@ -1,4 +1,6 @@
-Roles and Prompt 
+*Print: TODO(Hannah: confirm print quantities)*
+
+Roles
 
 Hand
 You are the AI’s body in the physical world. Your job is to carry out its instructions, moving around the room, interacting with objects, people, and rearranging furniture.
