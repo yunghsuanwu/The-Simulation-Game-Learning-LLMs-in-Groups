@@ -24,6 +24,10 @@ Full details: [facilitator_guide.md](facilitator_guide.md).
 ## About
 This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication. It has been tested with groups of up to 40 participants.
 
+## Learning Objectives
+
+TODO: Hannah
+
 ## License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
