@@ -22,7 +22,7 @@ Full details: [facilitator_guide.md](facilitator_guide.md).
 - [Reflection questions](facilitator_guide.md#debrief-20-min)
 
 ## About
-This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication.
+This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication. It has been tested with groups of up to 40 participants.
 
 ## License
 
