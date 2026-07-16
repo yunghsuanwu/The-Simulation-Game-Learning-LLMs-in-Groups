@@ -36,8 +36,6 @@ This exercise was developed for teaching students and academics about AI influen
 
 ## Learning Objectives
 
-## Learning Objectives
-
 By the end of a session and its debrief, participants will have:
 
 - **Experienced AI as a group phenomenon.** Most conversations about
