@@ -1,3 +1,5 @@
+*No need to print this guide. Read it before the session and keep the digital version to hand on the day. Only the role, prompt, and motivation sheets get printed.*
+
 # The Simulation Game ~ Facilitator Guide ~
 
 A physical team game exploring how humans and LLMs collide in a shared environment. Teams, each using an LLM, compete to enact a design goal on the objects in a room — and discover along the way what it means to be the hands, voice, or observer of a system that cannot see, move, or act for itself. 
