@@ -15,11 +15,21 @@ The Simulation Game puts humans, LLMs and a healthy dose of friendly competition
 
 Full details: [facilitator_guide.md](facilitator_guide.md).
 
-## Materials Included
-- [Setup instructions](facilitator_guide.md#preparation)
-- [Facilitator guide](facilitator_guide.md)
-- Resources for participant during the game: [Roles](role_summary.md), [Shared Prompt](prompt.md), [Motivation Set](motivation_set.md), [Closing Prompt](closing_prompt.md)
-- [Reflection questions](facilitator_guide.md#debrief-20-min)
+## Repository map
+
+**Running the game**
+- [facilitator_guide.md](facilitator_guide.md): the full run-of-show: read before the session, keep open on the day
+- [role_summary.md](role_summary.md): the Roles sheet *(print: 1 per group)*
+- [prompt.md](prompt.md): the Shared Prompt sheet *(print: 1 per group)*
+- [motivation_set.md](motivation_set.md): team goals in four sets *(print: 1 copy of each chosen set per session, cut into slips)*
+- [closing_prompt.md](closing_prompt.md): typed into the LLM to end the game
+
+**The project**
+- [DESIGN_RATIONALE.md](DESIGN_RATIONALE.md): why the game is built the way it is
+- [ETHICS.md](ETHICS.md): consent, photography, data handling, and reporting
+- [RUNS.md](RUNS.md): log of where the game has been delivered
+- [CONTRIBUTING.md](CONTRIBUTING.md): propose motivation sets or report a run
+- [CITATION.cff](CITATION.cff): how to cite this work
 
 ## About
 This exercise was developed for teaching students and academics about AI influenced group dynamics, context, power dynamics, and cross-technological communication. It has been tested with groups of up to 40 participants.
