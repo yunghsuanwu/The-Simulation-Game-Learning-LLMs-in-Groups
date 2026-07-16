@@ -3,11 +3,10 @@ message: "If you use or adapt this workshop, please cite it as below."
 type: dataset
 title: "The Simulation Game: Learning LLMs in Groups"
 authors:
-  - family-names: "TODO(Hannah: family name)"
-    given-names: "TODO(Hannah: given name)"
-    orcid: "TODO(Hannah: ORCID, e.g. https://orcid.org/0000-0000-0000-0000)"
+  - family-names: "Stewart"
+    given-names: "Hannah Eva"
+    orcid: "(Hannah: ORCID, https://orcid.org/0009-0001-8479-2417)"
 repository-code: "https://github.com/HStewart23/The-Simulation-Game-Learning-LLMs-in-Groups"
 url: "https://github.com/HStewart23/The-Simulation-Game-Learning-LLMs-in-Groups"
 license: CC-BY-4.0
-doi: "TODO(Hannah: DOI, if one has been minted e.g. via Zenodo)"
-date-released: "TODO(Hannah: date of first public release, e.g. 2026-01-07)"
+date-released: "2026-07-16"
