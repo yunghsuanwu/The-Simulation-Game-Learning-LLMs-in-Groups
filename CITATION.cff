@@ -10,3 +10,7 @@ repository-code: "https://github.com/HStewart23/The-Simulation-Game-Learning-LLM
 url: "https://github.com/HStewart23/The-Simulation-Game-Learning-LLMs-in-Groups"
 license: CC-BY-4.0
 date-released: "2026-07-16"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21397412
+    description: This DOI represents all versions and will always resolve to the latest.
