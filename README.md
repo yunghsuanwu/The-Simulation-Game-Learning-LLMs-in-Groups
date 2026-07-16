@@ -22,11 +22,34 @@ Full details: [facilitator_guide.md](facilitator_guide.md).
 - [Reflection questions](facilitator_guide.md#debrief-20-min)
 
 ## About
-This exercise was developed for teaching coding students and technical university students about AI ethics, context, power dynamics, and cross-technological communication. It has been tested with groups of up to 40 participants.
+This exercise was developed for teaching students and academics about AI influenced group dynamics, context, power dynamics, and cross-technological communication. It has been tested with groups of up to 40 participants.
 
 ## Learning Objectives
 
-TODO: Hannah
+## Learning Objectives
+
+By the end of a session and its debrief, participants will have:
+
+- **Experienced AI as a group phenomenon.** Most conversations about
+  LLMs focus on individual use; the game lets participants feel how an
+  LLM's presence reshapes how a group communicates, decides, and
+  coordinates.
+- **Encountered the model behind the persona.** When the LLM goes off
+  the rails mid-game, the illusion of the "helper" breaks. Participants
+  experience the persona as a persona, and meet models with genuinely
+  different vibes.
+- **Practised working under ambiguity.** The instructions are
+  deliberately vague, and the discomfort this produces at the start is
+  part of the design. It surfaces how participants respond when a
+  system won't tell them what it wants.
+- **Observed their own defaults.** In post-session feedback,
+  participants consistently report learning about themselves and their
+  groupmates; how they instinctively interact with technology, and
+  with each other around it.
+- **Converted play into critique.** The closing reveal turns an
+  entertaining experience into an applicable one and makes the point
+  that dismissing something as frivolous is also opting out of engaging
+  with it critically.
 
 ## License
 
