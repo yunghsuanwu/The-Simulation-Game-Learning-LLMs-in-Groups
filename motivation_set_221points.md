@@ -1,4 +1,4 @@
-# Motivation Sets — Point Version, 2-2-1
+# Motivation Sets — 2-2-1 Point Version
 
 A scored version of the game for 8 teams. It replaces the "no declared winner" rule; everything else about the game stays the same.
 

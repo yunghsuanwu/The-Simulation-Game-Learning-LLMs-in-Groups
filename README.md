@@ -24,9 +24,10 @@ Full details: [facilitator_guide.md](facilitator_guide.md).
 - [role_summary.md](role_summary.md): the Roles sheet *(print: 1 per group)*
 - [prompt.md](prompt.md): the Shared Prompt sheet *(print: 1 per group)*
 - [motivation_set.md](motivation_set.md): team goals in four sets *(print: 1 copy of each chosen set per session, cut into slips)*
-- [motivation_set_points.md](motivation_set_points.md): the scored version, 3-1-1 weights *(print: 1 copy per session, cut into slips)*
+- [motivation_set_311points.md](motivation_set_311points.md): the scored version, 3-1-1 weights *(print: 1 copy per session, cut into slips)*
 - [motivation_set_221points.md](motivation_set_221points.md): the scored version, 2-2-1 weights *(print: 1 copy per session, cut into slips)*
-- [point_system_comparison.md](point_system_comparison.md): how the two scored versions differ, and which to run
+- [motivation_set_mixedpoints.md](motivation_set_mixedpoints.md): the scored version with both weightings at once *(print: 1 copy per session, cut into slips)*
+- [point_system_comparison.md](point_system_comparison.md): how the three scored versions differ, and which to run
 - [closing_prompt.md](closing_prompt.md): typed into the LLM to end the game
 
 **The project**

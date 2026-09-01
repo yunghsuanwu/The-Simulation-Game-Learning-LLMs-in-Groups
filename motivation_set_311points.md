@@ -1,4 +1,4 @@
-# Motivation Sets — Point Version
+# Motivation Sets — 3-1-1 Point Version
 
 A scored version of the game for 8 teams. It replaces the "no declared winner" rule; everything else about the game stays the same.
 
@@ -13,6 +13,22 @@ Every team gets three goals on one slip: one worth **3 points** and two worth **
 Goals are scored at the end of every round and added up across the game. Four rounds gives a maximum of 20.
 
 There are two sets of four teams. **Set A moves the tables. Set B moves the chairs.** Every 3-point goal claims two areas of the room and demands sole use of them; this guide calls it the **betrayal goal**, because the team that takes it does so at the expense of the other three teams that want the same furniture. Teams are never told that name. Every 1-point goal asks for one area to be cleared or filled with small objects.
+
+## What the weights do
+
+The betrayal goal is worth 3, and a team's other two goals are worth 2 between them. So a team that takes its betrayal goal and loses everything else still scores more than a team that drops it and holds the rest. That single fact shapes the whole game:
+
+| What happens | Points |
+|---|---|
+| Everyone in a set cooperates | 2 each |
+| One team betrays its set and it works | 5 for the betraying team |
+| A betrayal that costs you both other goals | **3 — still more than cooperating** |
+| One betrayal, counted across the whole set | **1 lost** |
+| Collusion across the sets | 4 |
+
+Cooperating pays 40% of the maximum, so a team that holds to it is leaving more than half its slip on the table and trusting three rivals to do the same. Betrayal is also cheap to attempt. A team that goes for its betrayal goal and misses, with both its 1-point goals still standing, scores the 2 that cooperating would have paid it anyway. What makes an attempt expensive is not making it, but having a rival land theirs, which is what the section below counts.
+
+Every 1-point goal is worth 1 to whoever holds it, and each one appears on two slips in the same set. There is nothing hidden in the weights for teams to find out about each other. What they have to work out is who wants the same space, not who wants it more.
 
 ## Fitting the game to your room
 
@@ -45,6 +61,16 @@ Say both numbers out loud in the briefing and write them on the board: "there ar
 
 Fix that by taking furniture out of play, leaving the fractions alone. Move the surplus out of the room, then announce what is left: a third of 24 chairs plays exactly like a third of 60. Shrinking the fraction instead breaks the game. The rule that stops two teams in a set from both winning needs the fraction to stay above a quarter, and a quarter exactly fails at every count that divides by four.
 
+### Two judging rules to state in the briefing
+
+These decide a lot of close calls.
+
+**Corner 1 is its own area.** Something standing in corner 1 does not count as standing against either of the walls that meet there. So a pile of plants in corner 1 does not break a goal asking for a clear back wall.
+
+**A line or row along a wall does not have to reach the corner.** A team may stop its line a pace short, and a goal asking for nothing within one pace of that line is judged against the line as laid, not against the whole wall. Goals that say *along its whole length* do mean the whole wall, corner included.
+
+The first rule is not optional. Wherever you tape corner 1 it meets two walls, and at least one of those has a team asking for it to be kept clear, so without the rule the game would change according to which corner you happened to pick. It also decides whether a single team can hold both its own goals: A4 wants a clear back wall and the plants in corner 1, and those only sit together if the corner is judged apart from the walls that meet it. The set totals below assume it is.
+
 ## The hidden structure
 
 ### Inside a set
@@ -56,7 +82,7 @@ That produces two outcomes:
 - **All four teams drop their 3-point goal and help each other.** Every team gets both its 1-point goals. **2 points each, 8 for the set.**
 - **One team pushes its 3-point goal through and the others give way.** **5 points for that team**, 1 or 0 for each of the others, 7 for the set.
 
-Betrayal pays 5 against 2, which makes it look like the obvious move. It only pays if the other three give way. With four teams wanting the same space and two pairs of hands each, a team going alone gets there roughly a quarter of the time, so the average return on betrayal is about 1.25 against a steady 2. Teams that reason it through should cooperate. Teams that back their own arms will try it anyway, and two teams trying it at once usually leaves both with nothing.
+Betrayal pays 5 against 2, which makes it look like the obvious move. It only pays if the other three give way, and with four teams wanting the same space and two pairs of hands each, a team going alone gets there roughly a quarter of the time. That is a better bet than it sounds. An attempt that misses while both 1-point goals are still standing scores 2, exactly what cooperating would have paid, so a quarter sits right on the line rather than under it. Teams here keep trying betrayal and are not simply wrong to. What they are actually risking is two teams going for it at once, which usually leaves both with nothing. The arithmetic is set out below.
 
 ### Across the sets
 
@@ -86,6 +112,43 @@ Three things worth watching for:
 - **A3 and B3 can never collude on even terms.** A3's only compatible partner is B1; B3's only compatible partner is A1. Both are pushed towards either betrayal or cooperating with their own set. These two teams are most likely to have a hard game, and either one is a good candidate for the isolated-team conversation in the debrief.
 - **Total peace across all eight teams is impossible.** Set A's plant goal wants corner 1 holding plants and nothing else, while set B's personal-items goal wants the personal items piled in that same corner. One of them has to lose, in every room, at any furniture count. On top of that, three of the four walls get cleared if both sets cooperate fully, which leaves the chairs almost nowhere to stand. Something always gives.
 
+## The arithmetic
+
+Worth having in your head, because teams will ask afterwards whether they played well.
+
+**Is betrayal worth it?** Cooperating pays a certain 2. Betrayal pays 5 if it lands. If it fails, what you are left with depends on whether a rival landed theirs. So it is worth trying only if it lands often enough:
+
+| If a failed betrayal leaves you with… | The betrayal has to land this often |
+|---|---|
+| 0 points | 40% |
+| 1 point | 25% |
+| 2 points | no threshold |
+
+The last row is not a rounding artefact. A team that goes for its betrayal goal and keeps both 1-point goals scores 2, exactly what cooperating would have paid it, so the attempt costs nothing and any chance of success makes it worth taking.
+
+With four teams wanting the same furniture and two pairs of hands each, a team going alone gets there roughly a quarter of the time. That sits on the line rather than under it, which is why teams keep trying and are not simply wrong to.
+
+**Is collusion worth it?** Counting a collapsed collusion as 1 point:
+
+| A collusion paying | Has to hold |
+|---|---|
+| 5 points | 1 round in 4 |
+| 4 points | 1 round in 3 |
+| 3 points | half the time |
+
+Those are low bars, and they are why nothing in this version rewards keeping your word. A team can promise two or three partners at once, break most of them and still finish ahead of where it started. Expect that, and expect the room to work out that it can be done.
+
+**Over four rounds**, counting a failed betrayal or a collapsed collusion as 1 point, and a collusion holding about 70% of the time:
+
+| Strategy | Total out of 20 |
+|---|---|
+| Cooperate with your own set, every round, nobody breaks ranks | 8 |
+| Betray your set every round | 8 |
+| Run a 4-point collusion | 12.4 |
+| Run a 5-point collusion | 15.2 |
+
+Cooperating and betraying come out level, which is the whole difficulty of this version. Cooperating needs three rivals to hold still and pays 8 when they do; betraying needs nothing from anybody and pays 8 on average. Neither is worth much next to an agreement across the sets, which is why the talking matters more here than the furniture does.
+
 ## Room setup
 
 Tape five signs up before the session: **BACK WALL**, **WINDOW WALL**, **DOOR WALL**, **SIDE WALL**, and **CORNER 1** in any one corner.
@@ -111,6 +174,7 @@ Keep a scoring card per team: three tick boxes per round, four rounds.
 - Their own slip, and that goals are scored every round and added up.
 - Talking to other teams is allowed at any point. So is showing another team your slip, and so is lying about what is on it.
 - Nothing said between teams binds anyone.
+- The two judging rules above, about corner 1 and about lines along walls.
 
 Nobody is told how many teams share their set, or that sets exist at all.
 
