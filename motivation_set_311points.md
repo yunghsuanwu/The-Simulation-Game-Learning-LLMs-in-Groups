@@ -12,7 +12,7 @@ Every team gets three goals on one slip: one worth **3 points** and two worth **
 
 Goals are scored at the end of every round and added up across the game. Four rounds gives a maximum of 20.
 
-There are two sets of four teams. **Set A moves the tables. Set B moves the chairs.** Every 3-point goal claims two areas of the room and demands sole use of them. Every 1-point goal asks for one area to be cleared or filled with small objects.
+There are two sets of four teams. **Set A moves the tables. Set B moves the chairs.** Every 3-point goal claims two areas of the room and demands sole use of them; this guide calls it the **betrayal goal**, because the team that takes it does so at the expense of the other three teams that want the same furniture. Teams are never told that name. Every 1-point goal asks for one area to be cleared or filled with small objects.
 
 ## Fitting the game to your room
 
@@ -60,7 +60,7 @@ Betrayal pays 5 against 2, which makes it look like the obvious move. It only pa
 
 ### Across the sets
 
-Set A claims the back wall, the window wall, corner 1 and the middle. Set B claims the door wall, the side wall, corner 1 and the middle. The two sets meet in **corner 1 and the middle of the room**, so a team from A and a team from B can often hold their 3-point goals at the same time, each giving up one 1-point goal. That is 4 points each — double what cooperating with your own set pays, and it requires agreement with one team instead of three.
+Set A claims the back wall, the window wall, corner 1 and the middle. Set B claims the door wall, the side wall, corner 1 and the middle. The two sets meet in **corner 1 and the middle of the room**, so a team from A and a team from B can often hold their 3-point goals at the same time, each giving up one 1-point goal. That is 4 points each — double what cooperating with your own set pays, and it requires agreement with one team instead of three. This guide calls that **collusion**.
 
 The catch is that few pairs are actually even. This is the full table of pairs that can both succeed:
 
@@ -78,12 +78,12 @@ The catch is that few pairs are actually even. This is the full table of pairs t
 
 Every other pair (A2+B2, A2+B3, A3+B2, A3+B3, A3+B4, A4+B3, A4+B4) wants the same corner or the same middle, so those two teams can never both succeed.
 
-Three pairs hang on corner 1, where set A's plant goal and set B's personal-items goal want the same space on terms that cannot both hold. Whoever concedes the corner drops a point while the other takes 5. Those are the deals most likely to be struck and then broken.
+Three pairs hang on corner 1, where set A's plant goal and set B's personal-items goal want the same space on terms that cannot both hold. Whoever concedes the corner drops a point while the other takes 5. Those are the collusions most likely to be struck and then broken.
 
 Three things worth watching for:
 
-- **The teams with the most partners have the least to bargain with.** A1 and B1 can each pair with any of the four teams in the other set, and both come off worse in most of those deals, because neither one's 3-point goal damages anything the other set wants. A3 and B3 are the mirror image: one possible partner each, on terms of 5–3 in their own favour. Expect A1 and B1 to spend the game talking, and expect A3 and B3 to be courted while having nothing to trade except holding back.
-- **A3 and B3 can never get an even deal.** A3's only compatible partner is B1; B3's only compatible partner is A1. Both are pushed towards either predation or cooperating with their own set. These two teams are most likely to have a hard game, and either one is a good candidate for the isolated-team conversation in the debrief.
+- **The teams with the most partners have the least to bargain with.** A1 and B1 can each pair with any of the four teams in the other set, and both come off worse in most of those collusions, because neither one's 3-point goal damages anything the other set wants. A3 and B3 are the mirror image: one possible partner each, on terms of 5–3 in their own favour. Expect A1 and B1 to spend the game talking, and expect A3 and B3 to be courted while having nothing to trade except holding back.
+- **A3 and B3 can never collude on even terms.** A3's only compatible partner is B1; B3's only compatible partner is A1. Both are pushed towards either betrayal or cooperating with their own set. These two teams are most likely to have a hard game, and either one is a good candidate for the isolated-team conversation in the debrief.
 - **Total peace across all eight teams is impossible.** Set A's plant goal wants corner 1 holding plants and nothing else, while set B's personal-items goal wants the personal items piled in that same corner. One of them has to lose, in every room, at any furniture count. On top of that, three of the four walls get cleared if both sets cooperate fully, which leaves the chairs almost nowhere to stand. Something always gives.
 
 ## Room setup
@@ -102,7 +102,7 @@ Check this before teams enter. A goal that is true at the start hands out free p
 
 The facilitator and the assistant walk the room together at the end of each round's action phase and score all 24 goals. Every goal is a yes or a no, judged on what is in the room at that moment. Measurements are by eye, counted in paces.
 
-Read the running totals out to the room after each round. The totals leak information on purpose. A team showing 5 has just betrayed its own set, and a team showing 4 has usually done a deal across the sets, so the scoreboard tells everyone roughly who has done what without naming anyone.
+Read the running totals out to the room after each round. The totals leak information on purpose. A team showing 5 has just betrayed its own set, and a team showing 4 has usually colluded across the sets, so the scoreboard tells everyone roughly who has done what without naming anyone.
 
 Keep a scoring card per team: three tick boxes per round, four rounds.
 
@@ -118,7 +118,7 @@ The points live on the paper slip, so each team decides for itself whether to ty
 
 ## Fewer than eight teams
 
-Keep at least three teams in the larger set, or betrayal becomes the correct play and no coalition ever forms.
+Keep at least three teams in the larger set, or betrayal becomes the correct play and cooperation never forms.
 
 | Teams | Use |
 |---|---|
