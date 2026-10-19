@@ -1,6 +1,6 @@
 # Motivation Sets — 3-1-1 Point Version
 
-A scored version of the game for 8 teams. Points are added; there is still no declared winner. Each team is working towards its own goals, and its points show how far it got. Everything else about the game stays the same.
+A scored version of the game for 8 teams. Points are added; there is no declared winner. Each team is working towards its own goals, and its points show how far it got. Everything else about the game stays the same.
 
 > **The rest of this page down to the cut line is for the facilitator.** Teams get their own slip and nothing else. The structure described here is what they have to work out for themselves during play.
 
