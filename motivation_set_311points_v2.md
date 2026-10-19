@@ -18,13 +18,15 @@ There are two sets of four teams. **Set A moves the tables. Set B moves the chai
 
 The furniture goal is worth 3, and a team's other two goals are worth 2 between them. So a team that meets its furniture goal and loses everything else still scores more than a team that sets it aside and holds the rest. That single fact shapes the whole game:
 
-| What happens | Points |
+| What happens | Points the team scores |
 |---|---|
-| Everyone in a set cooperates | 2 each |
-| One team goes it alone and meets its furniture goal | 5 for that team |
-| Going it alone at the cost of both other goals | **3 — still more than cooperating** |
-| One team going it alone, counted across the whole set | **1 lost** |
-| Collusion across the sets | 4 |
+| Everyone in its set cooperates | 2 |
+| It goes it alone and meets its furniture goal | 5 |
+| It meets its furniture goal at the cost of both other goals | **3 — still more than cooperating** |
+| Another team in its set goes it alone and meets its furniture goal | 1 or 0 |
+| It colludes with a team from the other set | usually 4; 3 or 5 in some pairs |
+
+Counted across the whole set, one team going it alone costs very little: the set scores 7 instead of the 8 it scores when everyone cooperates.
 
 Cooperating pays 40% of the maximum, so a team that holds to it is leaving more than half its slip on the table and relying on three other teams to do the same. Going it alone is also cheap to attempt. A team that goes for its furniture goal and falls short, with both its 1-point goals still standing, scores the 2 that cooperating would have paid it anyway. What makes an attempt expensive is not making it, but another team in the set meeting theirs, which is what the section below counts.
 

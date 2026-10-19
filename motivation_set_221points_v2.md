@@ -18,13 +18,15 @@ There are two sets of four teams. **Set A moves the tables. Set B moves the chai
 
 The furniture goal is worth 2, and a team's other two goals are worth 3 between them. So a team that sets its furniture goal aside and holds everything else scores more than a team that meets it and loses the rest. That single fact shapes the whole game:
 
-| What happens | Points |
+| What happens | Points the team scores |
 |---|---|
-| Everyone in a set cooperates | **3 each** |
-| One team goes it alone and meets its furniture goal | 5 for that team |
-| Going it alone at the cost of both other goals | **2 — less than cooperating** |
-| One team going it alone, counted across the whole set | **4 lost** |
-| Collusion across the sets | 4, sometimes 3, and once 5 |
+| Everyone in its set cooperates | **3** |
+| It goes it alone and meets its furniture goal | 5 |
+| It meets its furniture goal at the cost of both other goals | **2 — less than cooperating** |
+| Another team in its set goes it alone and meets its furniture goal | 2, 1 or 0 |
+| It colludes with a team from the other set | anywhere from 2 to 5, depending on the pair |
+
+Counted across the whole set, one team going it alone costs a lot: the set scores 8 instead of the 12 it scores when everyone cooperates.
 
 Cooperating pays 60% of the maximum, so a team has a lot to lose by gambling. Going it alone is also hard to carry out, because it is only worth attempting if you can hold your other two goals at the same time — which splits two pairs of hands between moving furniture and keeping your other goals intact.
 
@@ -195,7 +197,7 @@ Keep a scoring card per team: three tick boxes per round, four rounds. Add a lin
 ## What to tell teams
 
 - Their own slip, and that goals are scored every round and added up.
-- Talking to other teams is allowed at any point. So is showing another team your slip, and so is lying about what is on it.
+- Talking to other teams happens at diplomacy time, the last two minutes of each round, when one OBSERVER from each team may visit other teams; outside it, teams keep to themselves, though a word in passing is fine. Showing another team your slip is allowed, and so is lying about what is on it.
 - Nothing said between teams binds anyone.
 - The two scoring rules above about corner 1 and about lines along walls.
 

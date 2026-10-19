@@ -28,10 +28,12 @@ Everything below follows from that.
 | Cooperating, as a share of the maximum | 40% | **60%** | 40% for set A, 60% for set B |
 | One team betrays its set and it works | 5 | 5 | 5 |
 | A betrayal that costs you both other goals | 3 — still beats cooperating | **2 — now loses to cooperating** | 3 in set A, 2 in set B |
-| Cost of one betrayal to the whole set | 1 point | **4 points** | 1 point in set A, 4 in set B |
-| Collusion across the sets | 4 | 4, sometimes 3, and once 5 | 3 to 5, and never below 3 for set A |
+| Another team in your set betrays and it works | 1 or 0 | 2, 1 or 0 | 1 or 0 in set A; 2, 1 or 0 in set B |
+| Collusion across the sets | usually 4; 3 or 5 in some pairs | anywhere from 2 to 5, depending on the pair | 3 to 5 in set A, 2 to 5 in set B |
 | Highest score two teams can hold at once | 5 and 4 | **5 and 5** | **5 and 5** |
 | Total peace across all eight teams | impossible | possible, and pays every team 3 | **possible, but pays set A 2 and set B 3** |
+
+Counted across the whole set rather than per team, one betrayal costs the set 1 point in 3-1-1 (8 down to 7) and 4 points in 2-2-1 (12 down to 8). Mixed follows the same split: 1 point in set A, 4 in set B.
 
 In Mixed, each set keeps its own column in every table on this page: read the 3-1-1 figures for set A and the 2-2-1 figures for set B. What is new there is not the arithmetic inside a set but what the two sets do to each other.
 

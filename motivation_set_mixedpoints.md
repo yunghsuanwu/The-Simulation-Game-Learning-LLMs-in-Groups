@@ -26,14 +26,13 @@ Both sets can score 5 in a round and 20 across the game, so the scoreboard compa
 
 In set A the betrayal goal is worth more than a team's other two goals put together, so taking it beats cooperating even when half of it fails. In set B it is worth less than the other two together, so a team that drops it and holds everything else beats a team that takes it and loses the rest.
 
-| | Set A | Set B |
+| Points the team scores | Set A | Set B |
 |---|---|---|
-| Everyone in the set cooperates | 2 each, 8 for the set | **3 each, 12 for the set** |
-| Cooperating, as a share of the maximum | 40% | **60%** |
-| One team's betrayal goal lands | 5 for that team | 5 for that team |
-| Where the other three land | 0, 1 and 1 in some order | 0, 1 and 2 in some order |
-| Set total when one team betrays | 7 | 8 |
-| Cost of one betrayal to the whole set | 1 point | **4 points** |
+| Everyone in its set cooperates | 2 | **3** |
+| Its betrayal goal lands | 5 | 5 |
+| Another team in its set betrays and it works | 1 or 0 | 2, 1 or 0 |
+
+Cooperating pays 40% of the maximum in set A and **60%** in set B. Counted across the whole set, one betrayal costs set A 1 point (8 down to 7) and set B **4 points** (12 down to 8).
 
 That difference decides how each set behaves, and the two behaviours are the version.
 
