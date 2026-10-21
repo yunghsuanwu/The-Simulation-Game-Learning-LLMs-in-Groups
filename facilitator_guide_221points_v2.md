@@ -28,7 +28,7 @@ With fewer than eight teams, use the "Fewer than eight teams" table in `motivati
 3. **Team slips** (`motivation_set_221points_v2.md`) — print only the part below the cut line and cut it into eight slips, so each team receives *only its own slip*. Each slip holds three goals and the points each is worth. Everything above the cut line is for you.
 4. **Scoring cards** — one per team, with three tick boxes per round for four rounds, plus one card of your own for the room total each round.
 
-> **Tip:** Emailing the shared prompt to each team is much faster than having them type it in manually, and it makes it easy for teams to change the wording before they enter it. Teams that edit will use more of the 10-minute prompt-entry step, so don't cut it short.
+> **Tip:** Emailing the shared prompt to each team is much faster than having them type it in manually, and it makes it easy for teams to make their changes before they enter it. Teams that edit will use more of the 10-minute prompt-entry step, so don't cut it short.
 
 ---
 
@@ -44,9 +44,9 @@ With fewer than eight teams, use the "Fewer than eight teams" table in `motivati
 
 **Each 10-minute round breaks down as:**
 
-- **6 min — Team time.** VOICE and HANDS work with the LLM to enact the team's goals.
-- **2 min — Tactics.** The OBSERVERS lead a team reflection on strategy and behaviour, including what to share with other teams. You score the room during this time.
 - **2 min — Diplomacy.** One of the two OBSERVERS from each team goes to talk to other teams and exchange information. Everyone else stays with their own team.
+- **2 min — Tactics.** The OBSERVERS lead a team reflection on strategy and behaviour, including what the OBSERVER brought back from diplomacy.
+- **6 min — Team time.** VOICE and HANDS work with the LLM to enact the team's goals. You score the room as soon as it ends.
 
 Nobody changes role during the game. Each person keeps the role they start with for every round.
 
@@ -85,9 +85,9 @@ Cover, in this order:
 
 1. **The premise.** Each team is working to enact its own goals in the room with an AI team-mate. The team is the senses and the body for the LLM as well as a unit in and of themselves. Each team gets a slip with three goals, each worth points. At the end of every round, the goals that show in the room score, and the points are added up over the game. Each team's aim is to score as many points as it can. There is no declared winner.
 2. **The roles.** Walk through VOICE, HANDS, and OBSERVER (see role rules below). Every team has one VOICE, two HANDS and two OBSERVERS. Tell them upfront that **roles are fixed**: whatever role a person takes at the start, they keep for the whole game.
-3. **The round structure.** 6 minutes of action, 2 minutes of tactics led by the OBSERVERS, 2 minutes of diplomacy, when one OBSERVER from each team may go and talk to other teams. State that there are four rounds. Nothing in the room is moved outside the 6 minutes of action.
+3. **The round structure.** 2 minutes of diplomacy, when one OBSERVER from each team may go and talk to other teams, then 2 minutes of tactics led by the OBSERVERS, then 6 minutes of action. State that there are four rounds. Nothing in the room is moved outside the 6 minutes of action.
 4. **The rules for talking.** Diplomacy time is the time for talking to other teams; outside it, teams keep to themselves, though a word in passing while moving furniture is fine. Showing another team your slip is allowed, and so is lying about what is on it. Nothing said between teams binds anyone.
-5. **The first prompt.** Tell every team, before anyone types anything: *"You'll each get the same starting prompt for your AI. If you want to, you can change it before you enter it — add to it, cut it, reword it. That's your one chance: once it's in, it stays for the rest of the game."* The VOICE enters whichever version the team settles on. Changing it is optional, and teams that enter it as written are playing just as properly. After that, the VOICE keeps talking to the AI as normal throughout.
+5. **The first prompt.** Tell every team, before anyone types anything: *"You'll each get the same starting prompt for your AI. If you want to, you can change the operation instructions — everything after the line 'Once your goals are known' — before you enter it: add to them, cut them, reword them. Everything above that line stays as written. That's your one chance: once it's in, it stays for the rest of the game."* The VOICE enters whichever version the team settles on. Changing it is optional, and teams that enter it as written are playing just as properly. After that, the VOICE keeps talking to the AI as normal throughout.
 6. **The room numbers and the two judging rules.** Point to the board: how many tables and chairs there are, what half and a third come to. Then state the two rules: **corner 1 is its own area**, so something standing in it does not count as standing against either wall that meets there; and **a line or row along a wall does not have to reach the corner**, but goals that say *along its whole length* mean the whole wall, corner included.
 7. **Care and safety.** Ask everyone to be respectful of each other, the object they are moving and the environment they are in.
 8. **Emphasize uncertainty** This is a game that feels complex from the instructions but becomes easy once you have started playing it. Your participants will be confused at the beginning, expect it. It will help them be less stressed about their own confusion to know that it is expected and that clarity will come.
@@ -99,7 +99,7 @@ Cover, in this order:
 
 1. Split into teams of 5. If the numbers don't divide by five, a team of four plays with one OBSERVER, who leads tactics and also goes out at diplomacy time; a team of six takes a third OBSERVER.
 2. Teams assign their roles: one VOICE, two HANDS, two OBSERVERS. Whoever is holding the laptop can be the VOICE. These roles stay the same for the whole game, so give teams a moment to choose deliberately.
-3. The VOICE enters the **shared prompt** into the team's chosen LLM, changed or as written — remind teams that this is their one chance to change it. Once it is entered, the prompt is fixed — if a team asks to start over with a new chat or a rewritten prompt later, the answer is no.
+3. The VOICE enters the **shared prompt** into the team's chosen LLM, changed or as written — remind teams that only the instructions after "Once your goals are known:" may be changed, and that this is their one chance to change them. Once it is entered, the prompt is fixed — if a team asks to start over with a new chat or a rewritten prompt later, the answer is no.
 4. Hand each team their **secret slip**. The VOICE gives the goals to the LLM when the LLM asks for them (the shared prompt instructs the LLM to request its GOALS before acting).
 
 The points live on the paper slip, so each team decides for itself whether to type them into its LLM. Some will, and their LLM will start ranking the goals for them. Don't advise either way — watch for it, because the moment a team hands over its priorities is worth raising in the debrief.
@@ -109,16 +109,16 @@ The points live on the paper slip, so each team decides for itself whether to ty
 ### 3. The rounds (40 min)
 
 -- 1 round --
-Active portion: when the teams are physically trying to enact their goals in the room (6 mins initially, rounds can get shorter as you go through the game, as short as 3 minutes by round 4).
-
-Tactical portion: the observers lead this part of the game, how is the team functioning, what to share with other teams, and should you change anything tactically. Meanwhile you and the assistant score the room. (2 mins)
-
 Diplomacy: one of the two observers from each team goes to other teams to talk and exchange information; everyone else stays with their own team. The team decides which observer goes, and can send the same one every round or a different one. (2 mins)
+
+Tactical portion: the observers lead this part of the game, how is the team functioning, what the observer heard from other teams, and should you change anything tactically. (2 mins)
+
+Active portion: when the teams are physically trying to enact their goals in the room (6 mins initially, rounds can get shorter as you go through the game, as short as 3 minutes by round 4).
 --
 
-**Scoring.** As soon as the active portion ends, you and the assistant walk the room together and score all 24 goals on what is there at that moment. Every goal is a yes or a no, judged by eye, with distances counted in paces. Tick the team cards, then add up the room total on your own card. At the end of tactics, read each team's running total out to the room, so OBSERVERS go into diplomacy knowing the scores. **Never read out the room total**; keep it for the debrief. The "Scoring" section of `motivation_set_221points_v2.md` explains what each score can and cannot tell the room.
+**Scoring.** As soon as the active portion ends, you and the assistant walk the room together and score all 24 goals on what is there at that moment. Every goal is a yes or a no, judged by eye, with distances counted in paces. Tick the team cards, then add up the room total on your own card. At the start of the next round, before diplomacy, read each team's running total out to the room, so OBSERVERS go into diplomacy knowing the scores. After round 4, read the final totals once the room is scored. **Never read out the room total**; keep it for the debrief. The "Scoring" section of `motivation_set_221points_v2.md` explains what each score can and cannot tell the room.
 
-Ideally an assistant does the time keeping so that the primary facilitator can attend to the other needs of the group fielding questions adding clarity etc. Have the assistant run a large timer on a screen in the background allows participants to check how much time they have left in each portion, bonus points if the timer makes noises once it finishes - this will save your voice, and frees the assistant to score with you during tactics. The primary facilitator should call each phase loudly for the first few rounds, reminding participants what they should be doing and keep the momentum going: *"Six minutes — go!"*, *"Tactics — Observers, take over"*, *"Diplomacy — one Observer per team, go!"*
+Ideally an assistant does the time keeping so that the primary facilitator can attend to the other needs of the group fielding questions adding clarity etc. Have the assistant run a large timer on a screen in the background allows participants to check how much time they have left in each portion, bonus points if the timer makes noises once it finishes - this will save your voice, and frees the assistant to score with you once the action ends. The primary facilitator should call each phase loudly for the first few rounds, reminding participants what they should be doing and keep the momentum going: *"Diplomacy — one Observer per team, go!"*, *"Tactics — Observers, take over"*, *"Six minutes — go!"*
 
 **Role rules to enforce (gently):**
 

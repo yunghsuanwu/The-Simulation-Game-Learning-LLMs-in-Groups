@@ -197,7 +197,7 @@ Keep a scoring card per team: three tick boxes per round, four rounds. Add a lin
 ## What to tell teams
 
 - Their own slip, and that goals are scored every round and added up.
-- Talking to other teams happens at diplomacy time, the last two minutes of each round, when one OBSERVER from each team may visit other teams; outside it, teams keep to themselves, though a word in passing is fine. Showing another team your slip is allowed, and so is lying about what is on it.
+- Talking to other teams happens at diplomacy time, the first two minutes of each round, when one OBSERVER from each team may visit other teams; outside it, teams keep to themselves, though a word in passing is fine. Showing another team your slip is allowed, and so is lying about what is on it.
 - Nothing said between teams binds anyone.
 - The two scoring rules above about corner 1 and about lines along walls.
 

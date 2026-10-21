@@ -1,6 +1,6 @@
 *Print: 1 per group if emailing is not possible*
 
-*You may change any of the wording below before you enter it into your LLM. Once it is entered, it stays as it is for the rest of the game.*
+*Before you enter this prompt into your LLM, you may change any of the operation instructions that come after the line "Once your goals are known:". Everything above that line stays as written. Once the prompt is entered, it stays as it is for the rest of the game.*
 
 # The Simulation Game — Shared Prompt
 
